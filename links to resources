@@ -1,0 +1,19 @@
+https://www.towerpro.com.tw/product/sg92r-7/   ----> motor leg specs
+
+https://thepihut.com/products/servo-motor-sg92r-micro ----> more motor leg specs
+
+https://docs.arduino.cc/learn/electronics/servo-motors ----> Servo motor + Arduino basics (making current project off this)
+
+https://linuxhint.com/vin-pin-arduino/ ----> explanation of VIN pin in Arduino
+
+https://www.allaboutcircuits.com/technical-articles/an-introduction-to-ground/ ----> explanation of GROUND
+
+https://www.makerguides.com/arduino-nano/#arduino-nano-pinout ----> Arduino Nano pinout (more detailed)
+
+https://thecustomizewindows.com/2018/05/difference-between-analog-and-digital-pins-in-arduino-uno/ ----> analog VS digital pins
+
+https://www.quora.com/What-is-the-difference-between-analog-and-digital-pins-in-Arduino ----> analog pin v PWM pin Arduino (fun article)
+
+https://www.circuito.io/blog/arduino-uno-pinout/ ----> Arduino UNO pinout (but very detailed!)
+
+https://wiki.seeedstudio.com/Grove-Speech_Recognizer/ ----> Grove Speech Recognizer specs
