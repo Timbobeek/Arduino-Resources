@@ -17,3 +17,7 @@ https://www.quora.com/What-is-the-difference-between-analog-and-digital-pins-in-
 https://www.circuito.io/blog/arduino-uno-pinout/ ----> Arduino UNO pinout (but very detailed!)
 
 https://wiki.seeedstudio.com/Grove-Speech_Recognizer/ ----> Grove Speech Recognizer specs
+
+https://www.instructables.com/Arduino-Servo-Motors/ ----> more on connecting servo motor to arduino
+
+https://www.arduino.cc/reference/en/language/functions/communication/serial/print/ ----> documentation on Serial.print()
