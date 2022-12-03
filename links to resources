@@ -21,3 +21,7 @@ https://wiki.seeedstudio.com/Grove-Speech_Recognizer/ ----> Grove Speech Recogni
 https://www.instructables.com/Arduino-Servo-Motors/ ----> more on connecting servo motor to arduino
 
 https://www.arduino.cc/reference/en/language/functions/communication/serial/print/ ----> documentation on Serial.print()
+
+https://www.circuit-diagram.org/editor/ ----> circuit diagram editor
+
+https://www.circuito.io/app?components=514,10289,11022,12829 ----> simulator of wiring things to Arduino Nano
